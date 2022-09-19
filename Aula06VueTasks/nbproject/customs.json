@@ -1,0 +1,13 @@
+{
+    "elements": {},
+    "attributes": {
+        "v-if": {
+            "context": "div"
+        },
+        "v-on:click": {},
+        "v-for": {},
+        "v-model": {
+            "context": "input"
+        }
+    }
+}
