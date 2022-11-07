@@ -25,7 +25,7 @@
                 errorMessage = ex.getMessage();
             }
         %>
-        <h4><a href="index.html">Voltar</a></h4>
+        <h4><a href="index.html">Página Inicial</a></h4>
         <h1>JSP</h1>
         <h2>Soma</h2>
         <div>
